@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jeetungaa_weatherapp/static/css/main.0d71cb0d.css",
-    "main.js": "/jeetungaa_weatherapp/static/js/main.5771dab6.js",
-    "static/media/sun-flare.jpg": "/jeetungaa_weatherapp/static/media/sun-flare.94459f394c4c947dcfdf.jpg",
-    "static/media/jose-g-ortega-castro-tS4Pl_8F3fY-unsplash.jpg": "/jeetungaa_weatherapp/static/media/jose-g-ortega-castro-tS4Pl_8F3fY-unsplash.ba683b4f6ab92a35f071.jpg",
-    "static/media/joy-stamp-pGQbWXBC1dA-unsplash.jpg": "/jeetungaa_weatherapp/static/media/joy-stamp-pGQbWXBC1dA-unsplash.63a4e6a5b9fd87eaf5e6.jpg",
-    "static/media/july-JnZT941-bc8-unsplash.jpg": "/jeetungaa_weatherapp/static/media/july-JnZT941-bc8-unsplash.707020ca0fa87d1cc283.jpg",
-    "static/media/noaa-0ETSZYPjvDo-unsplash.jpg": "/jeetungaa_weatherapp/static/media/noaa-0ETSZYPjvDo-unsplash.0da952c33ebf3fb97816.jpg",
-    "static/media/alex-gindin-ifpBOcQlhoY-unsplash.jpg": "/jeetungaa_weatherapp/static/media/alex-gindin-ifpBOcQlhoY-unsplash.a2b2c7508aac16b9a9e4.jpg",
-    "index.html": "/jeetungaa_weatherapp/index.html",
-    "main.0d71cb0d.css.map": "/jeetungaa_weatherapp/static/css/main.0d71cb0d.css.map",
-    "main.5771dab6.js.map": "/jeetungaa_weatherapp/static/js/main.5771dab6.js.map"
+    "main.css": "/weather_app/static/css/main.5eaa12c1.css",
+    "main.js": "/weather_app/static/js/main.5771dab6.js",
+    "static/media/sun-flare.jpg": "/weather_app/static/media/sun-flare.94459f394c4c947dcfdf.jpg",
+    "static/media/jose-g-ortega-castro-tS4Pl_8F3fY-unsplash.jpg": "/weather_app/static/media/jose-g-ortega-castro-tS4Pl_8F3fY-unsplash.ba683b4f6ab92a35f071.jpg",
+    "static/media/joy-stamp-pGQbWXBC1dA-unsplash.jpg": "/weather_app/static/media/joy-stamp-pGQbWXBC1dA-unsplash.63a4e6a5b9fd87eaf5e6.jpg",
+    "static/media/july-JnZT941-bc8-unsplash.jpg": "/weather_app/static/media/july-JnZT941-bc8-unsplash.707020ca0fa87d1cc283.jpg",
+    "static/media/noaa-0ETSZYPjvDo-unsplash.jpg": "/weather_app/static/media/noaa-0ETSZYPjvDo-unsplash.0da952c33ebf3fb97816.jpg",
+    "static/media/alex-gindin-ifpBOcQlhoY-unsplash.jpg": "/weather_app/static/media/alex-gindin-ifpBOcQlhoY-unsplash.a2b2c7508aac16b9a9e4.jpg",
+    "index.html": "/weather_app/index.html",
+    "main.5eaa12c1.css.map": "/weather_app/static/css/main.5eaa12c1.css.map",
+    "main.5771dab6.js.map": "/weather_app/static/js/main.5771dab6.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d71cb0d.css",
+    "static/css/main.5eaa12c1.css",
     "static/js/main.5771dab6.js"
   ]
 }
